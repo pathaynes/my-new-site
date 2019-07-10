@@ -1,0 +1,44 @@
+
+.main-header {
+    display: flex;
+    align-items: center;
+    color: green
+}
+
+.lead {
+    font-weight: bold
+}
+
+h2 {
+    margin: 10px 20px 15px
+}
+
+p {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic
+}
+
+html {
+    background: lightblue
+}
+
+ul {
+    color: red;
+    font-style: bold;
+    font-size: 50px;
+    margin: 15px 20px 20px 20px;
+
+
+}
+
+h1 {
+    border: solid;
+    margin: 0;
+
+    width: 437px;
+    text-align: center;
+
+
+
+}
